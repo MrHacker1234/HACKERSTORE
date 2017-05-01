@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -855,7 +855,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND FEEDBACK</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\"></span>SEND FEEDBACK</a>",
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
