@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -424,6 +424,130 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "16px",
               "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-c",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/unnamed-1-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Dead Target Hack",
+          "subtitle1": "<span style=\"font-style: normal;\">Hey Guys, check out this Dead Target Hack with unlimited money. Its size is only 70.08 MB.</span>",
+          "caption1": ".",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TXzJ1RDhOdzJHTU0\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/unnamed-2-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Dhoom 3: The Game Hack",
+          "subtitle2": "<span style=\"font-style: normal;\">Hey guys check out the Dhoom 3: The Game Hack with unlimited coins. Its size is only 38.01 MB.</span>",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TaGdYaXhqRGVDT1E\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/download-4-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Shadow Fight 2 Hack",
+          "subtitle3": "<span style=\"font-style: normal;\">Hey guys see this Shadow Fight 2 Hack with unlimited money. Its size is 85.70 MB.&nbsp;</span>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TZjRDR1hYaXdaUVU\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/download-5-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Wild Hunter 3D Hack",
+          "subtitle4": "<span style=\"font-style: normal;\">Hey Guys check out this Wild Hunter 3D Hack with unlimited money and intel. Its size is only 19.94 MB.</span>",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TUFBRUk5ZTmRNSFk\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H5": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
             }
           }
         }
