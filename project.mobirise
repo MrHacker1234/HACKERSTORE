@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -36,7 +36,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -556,7 +557,8 @@
     "page1.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "meta_descr": "Website Creator Description",
+        "order": 2
       },
       "components": [
         {
@@ -684,7 +686,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "LATEST VERSION 1.0<br><span style=\"font-weight: normal;\">Your App is the Latest Version.</span>",
+          "title": "LATEST VERSION &nbsp;1.0<br><span style=\"font-weight: normal;\">Your App is the Latest Version.</span>",
           "text": "",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mrhacker1234.github.io/HACKERSTORE/\" data-toolbar=\"-mbrBtnMove\">BACK TO STORE</a>",
           "_styles": {
