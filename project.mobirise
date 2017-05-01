@@ -99,7 +99,7 @@
             "transparent": true,
             "sticky": true,
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
