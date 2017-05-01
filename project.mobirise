@@ -332,52 +332,68 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mzl-600x600.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title1": "Temple Run OZ Hack",
+          "subtitle1": "<span style=\"font-style: normal;\">Hey Check out the Temple Run OZ Hack with unlimited money and gems. Its size is only 76.24 MB.</span>",
+          "caption1": "<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7Tck5YZXNTRUhQRDg\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/download-2-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title2": "Dead Trigger Hack",
+          "subtitle2": "<span style=\"font-style: normal;\">Hey check out the Dead Trigger Hack with unlimited money and gold. Its size is 12.64 MB.</span>",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TeXdpV1l6OG1QNFU\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/unnamed-600x600.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title3": "Hill Climb Racing Hack",
+          "subtitle3": "<span style=\"font-style: normal;\">Hey Guys, see this awesome Hill Climb Racing game Hack. Its size is only 47.95 MB.</span>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TSkhqSDl4N2tRakE\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/download-3-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title4": "My Talking Tom Hack",
+          "subtitle4": "<span style=\"font-style: normal;\">Hey check out this My Talking Tom Hack. Its size is only 71.20 MB.</span>",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TQjdadEx2bXB5aG8\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -401,7 +417,15 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H5": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "text-align": "left"
+            }
+          }
         }
       ]
     }

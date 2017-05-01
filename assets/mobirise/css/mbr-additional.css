@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -492,5 +493,10 @@ h6,
   font-size: 16px;
 }
 #features3-6 SPAN {
+  text-align: left;
+}
+#features3-b H5 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
   text-align: left;
 }
