@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script>\r\n  (function() {\r\n    var cx = '012896663202670510256:uqbchzzfczi';\r\n    var gcse = document.createElement('script');\r\n    gcse.type = 'text/javascript';\r\n    gcse.async = true;\r\n    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;\r\n    var s = document.getElementsByTagName('script')[0];\r\n    s.parentNode.insertBefore(gcse, s);\r\n  })();\r\n</script>\r\n<gcse:search></gcse:search>"
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-98365357-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
     "index.html": {
@@ -99,7 +99,7 @@
             "transparent": true,
             "sticky": true,
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
