@@ -15,14 +15,14 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 0,
+    "uniqCompNum": 7,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -51,13 +51,13 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
+              "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#0e0e0e"
@@ -76,17 +76,10 @@
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
+              "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#c0a375!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
               "background-color": "#ffffff"
@@ -96,16 +89,16 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
+            "fontHoverColor": "#c0a375",
             "transparent": true,
             "sticky": true,
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -122,11 +115,10 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\"></span>OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://hackerstoreweb.simdif.com\">DOWNLOAD HACKER STORE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
@@ -145,11 +137,17 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
-          "title": "HACKER STORE",
-          "text": "Hacker Store is a platform by Mr. Hacker in which Android mobile users can get hacks of popular games. It is totally free and safe. Users will also get paid apps in Hacker Store. To access Hacker Store, Download its official Android App.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://hackerstoreweb.simdif.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD HACKER STORE</a>  "
+          "title": "HACKER STORE<br>",
+          "text": "<br>Welcome to Hacker Store, Here you will get Hacks of Popular Android Games. This store is fully Powered By Daily Apps {COPYRIGHT}.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
         },
         {
           "_name": "footer1",
@@ -167,6 +165,137 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-6",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/81jzmw9eall-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Zombie Tsunami Hack",
+          "subtitle1": "<span style=\"font-style: normal;\">Hey Check out the Zombie Tsunami Hack with unlimited money. Its size is 61.80 MB.</span>",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TRWxEN2NKQXZ0SFE\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL </a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/07ef10c982b089babd27eb19228264e5-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Temple Run 2 Hack<br>",
+          "subtitle2": "<span style=\"font-style: normal;\">Check out Temple Run 2 Hack with unlimited money and gems. Its size is only 44.80 MB.&nbsp;</span>",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TQ1ZlR0RyaDdZYlk\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/download-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Subway Surfers Hack",
+          "subtitle3": "<span style=\"font-style: normal;\">Hey, see this Subway Surfers Hack with unlimited money and Keys. Its size is only 61.04 MB.</span>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TRTR3T21Ha1kyWXc\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/download-1-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Plants Vs. Zombies FREE Hack",
+          "subtitle4": "<span style=\"font-style: normal;\">Hello, see this Plants Vs. Zombies FREE game Hack. Its size is 9.04 MB.</span>",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TQnFmNjAyTFFraVU\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a> ",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H5": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "left",
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     }
