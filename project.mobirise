@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1001,9 +1001,9 @@
           "title": "SUBSCRIBE HACKER STORE",
           "subtitle": "Subscribe to Hacker Store For Latest Updates",
           "form": {
-            "action": "mrhackerblogspot@gmail.com",
+            "action": "hackerstore678@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks forSubscribing Hacker Store, You will now get latest news and updates of Hacker Store."
             },
             "fields": {
               "email": {
