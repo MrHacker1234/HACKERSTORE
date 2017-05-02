@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 34,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -229,7 +229,7 @@
           "title1": "Zombie Tsunami Hack",
           "subtitle1": "<span style=\"font-style: normal;\">Hey Check out the Zombie Tsunami Hack with unlimited money. Its size is 61.80 MB.</span>",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TRWxEN2NKQXZ0SFE\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL </a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TRWxEN2NKQXZ0SFE\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>INSTALL </a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/07ef10c982b089babd27eb19228264e5-600x600.jpg",
@@ -245,7 +245,7 @@
           "title2": "Temple Run 2 Hack<br>",
           "subtitle2": "<span style=\"font-style: normal;\">Check out Temple Run 2 Hack with unlimited money and gems. Its size is only 44.80 MB.&nbsp;</span>",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TQ1ZlR0RyaDdZYlk\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TQ1ZlR0RyaDdZYlk\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>INSTALL</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/download-600x600.jpg",
@@ -261,7 +261,7 @@
           "title3": "Subway Surfers Hack",
           "subtitle3": "<span style=\"font-style: normal;\">Hey, see this Subway Surfers Hack with unlimited money and Keys. Its size is only 61.04 MB.</span>",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TRTR3T21Ha1kyWXc\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TRTR3T21Ha1kyWXc\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>INSTALL</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/download-1-600x600.jpg",
@@ -277,7 +277,7 @@
           "title4": "Plants Vs. Zombies FREE Hack",
           "subtitle4": "<span style=\"font-style: normal;\">Hello, see this Plants Vs. Zombies FREE game Hack. Its size is 9.04 MB.</span>",
           "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TQnFmNjAyTFFraVU\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a> ",
+          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TQnFmNjAyTFFraVU\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>INSTALL</a> ",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -354,7 +354,7 @@
           "title1": "Temple Run OZ Hack",
           "subtitle1": "<span style=\"font-style: normal;\">Hey Check out the Temple Run OZ Hack with unlimited money and gems. Its size is only 76.24 MB.</span>",
           "caption1": "<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7Tck5YZXNTRUhQRDg\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7Tck5YZXNTRUhQRDg\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>INSTALL</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/download-2-600x600.jpg",
@@ -370,7 +370,7 @@
           "title2": "Dead Trigger Hack",
           "subtitle2": "<span style=\"font-style: normal;\">Hey check out the Dead Trigger Hack with unlimited money and gold. Its size is 12.64 MB.</span>",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TeXdpV1l6OG1QNFU\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TeXdpV1l6OG1QNFU\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>INSTALL</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/unnamed-600x600.png",
@@ -386,7 +386,7 @@
           "title3": "Hill Climb Racing Hack",
           "subtitle3": "<span style=\"font-style: normal;\">Hey Guys, see this awesome Hill Climb Racing game Hack. Its size is only 47.95 MB.</span>",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TSkhqSDl4N2tRakE\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TSkhqSDl4N2tRakE\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>INSTALL</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/download-3-600x600.jpg",
@@ -402,7 +402,7 @@
           "title4": "My Talking Tom Hack",
           "subtitle4": "<span style=\"font-style: normal;\">Hey check out this My Talking Tom Hack. Its size is only 71.20 MB.</span>",
           "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TQjdadEx2bXB5aG8\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TQjdadEx2bXB5aG8\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>INSTALL</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -478,7 +478,7 @@
           "title1": "Dead Target Hack",
           "subtitle1": "<span style=\"font-style: normal;\">Hey Guys, check out this Dead Target Hack with unlimited money. Its size is only 70.08 MB.</span>",
           "caption1": ".",
-          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TXzJ1RDhOdzJHTU0\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TXzJ1RDhOdzJHTU0\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>INSTALL</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/unnamed-2-600x600.png",
@@ -494,7 +494,7 @@
           "title2": "Dhoom 3: The Game Hack",
           "subtitle2": "<span style=\"font-style: normal;\">Hey guys check out the Dhoom 3: The Game Hack with unlimited coins. Its size is only 38.01 MB.</span>",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TaGdYaXhqRGVDT1E\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TaGdYaXhqRGVDT1E\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>INSTALL</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/download-4-600x600.jpg",
@@ -510,7 +510,7 @@
           "title3": "Shadow Fight 2 Hack",
           "subtitle3": "<span style=\"font-style: normal;\">Hey guys see this Shadow Fight 2 Hack with unlimited money. Its size is 85.70 MB.&nbsp;</span>",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TZjRDR1hYaXdaUVU\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TZjRDR1hYaXdaUVU\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>INSTALL</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/download-5-600x600.jpg",
@@ -526,7 +526,7 @@
           "title4": "Wild Hunter 3D Hack",
           "subtitle4": "<span style=\"font-style: normal;\">Hey Guys check out this Wild Hunter 3D Hack with unlimited money and intel. Its size is only 19.94 MB.</span>",
           "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TUFBRUk5ZTmRNSFk\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">INSTALL</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=0BzqSYRprni7TUFBRUk5ZTmRNSFk\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>INSTALL</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
