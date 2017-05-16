@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-98365357-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "google-analytics": "<!-- Google Custom Search Element →\r\n<div id=”cse” style=”width:100%;”>Loading</div>\r\n<script src=”http://www.google.com/jsapi” type=”text/javascript”></script>\r\n<script type=”text/javascript”>google.load(‘search’, ‘1’);\r\n          google.setOnLoadCallback(function(){var cse = new google.search.\r\n          CustomSearchControl();cse.draw(‘cse’);}, true);</script>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
